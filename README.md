@@ -27,3 +27,6 @@ Trabalho feito com o intuito de aplicar os conceitos aprendidos durante o semest
 <p align="center">
   <a href="https://youtu.be/lFUo9LD88Qs"><img src="https://i.imgur.com/DTbMK5N.png" width="500"></a>
 </p>
+
+_________________________________________________
+*All copyrighted content (images, codes, etc.) belong to their respective owners and are not included under the license of this repositorie.*
